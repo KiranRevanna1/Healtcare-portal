@@ -1,4 +1,4 @@
-# Tabibu Health Care
+# Reloki Health Care
 ### Steps to install and run in local system 🚀🚀🚀
 - Create a virtual environment `python -m venv <env_name>`
 - Activate virtual environment `source <env_name>/bin/activate`
@@ -8,6 +8,4 @@
 - Create a super user `python manage.py createsuperuser`
 - Run the server `python manage.py runserver`
 
-
-### Powered with great ❤️ By [CoderPass](https://coderpass.herokuapp.com)
 ### Happy Coding
